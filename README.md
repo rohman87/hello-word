@@ -1,2 +1,3 @@
 # hello-word
-first repo 
+first repo,  
+night after night the moon looks like the same
